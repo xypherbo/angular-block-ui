@@ -4,6 +4,7 @@ An AngularJS module that allows you to block user interaction on AJAX requests. 
 
 #### Dependencies
 Besides AngularJS (~1.2.4), none.  
+Require ngAnimate
 
 #### Demos
 Live demos can be found on the [block-ui website](http://angular-block-ui.nullest.com) or by executing the website included in the [GitHub project](https://github.com/McNull/angular-block-ui) .
